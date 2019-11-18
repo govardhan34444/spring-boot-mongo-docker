@@ -36,5 +36,4 @@ volumes:
     
 networks:
   default:
-    local:
       name: customoverlay
